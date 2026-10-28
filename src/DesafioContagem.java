@@ -35,7 +35,7 @@ public class DesafioContagem {
         for (int i = n; i >= 0; i--) {
             System.out.print(i + " ");
         }
-        System.out.println(); // Quebra de linha
+        System.out.println();
 
 
         System.out.println("\n--- Exibição do Nome ---");
