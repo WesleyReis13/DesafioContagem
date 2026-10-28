@@ -28,7 +28,7 @@ public class DesafioContagem {
         for (int i = 0; i <= n; i++) {
             System.out.print(i + " ");
         }
-        System.out.println(); // Quebra de linha
+        System.out.println();
 
 
         System.out.println("\n--- Contagem Decrescente (" + n + " até 0) ---");
